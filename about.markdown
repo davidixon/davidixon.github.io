@@ -16,4 +16,4 @@ You can also send email to david at this domain.
 [1]: http://jekyllrb.com
 [2]: https://pages.github.com
 [3]: http://lanyon.getpoole.com
-[4]: [twitter]
+[4]: https://twitter.com/davidixon
