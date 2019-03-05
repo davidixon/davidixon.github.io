@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        /:title/
+
+# Setup
+title:            Comma Splice
+description:      Thoughts from David Dixon.
+url:              http://commasplice.net/
+
+author:
+  name:           David Dixon
+  url:            https://twitter.com/davidixon
+
+paginate:         10
+
+# Custom vars
+version:          3.0
