@@ -7,7 +7,7 @@ permalink:        /:title/
 
 # Setup
 title:            Comma Splice
-description:      Thoughts from David Dixon.
+description:      Thoughts and links from David Dixon.
 url:              http://commasplice.net/
 
 author:
@@ -17,4 +17,4 @@ author:
 paginate:         10
 
 # Custom vars
-version:          1.2019
+version:          2019
