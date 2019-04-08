@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryan Holiday's *Conspiracy*
+title: Ryan Holiday's Conspiracy
 date: 2019-04-07 18:51:36
 ---
 
