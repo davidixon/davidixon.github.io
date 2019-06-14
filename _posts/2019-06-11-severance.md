@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Severance by Ling Ma
+title: "Severance by Ling Ma"
 date: 2019-06-11 23:45:00
 ---
 
