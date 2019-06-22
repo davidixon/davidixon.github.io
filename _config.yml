@@ -4,6 +4,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
+timezone:         America/Denver
 
 # Setup
 title:            Comma Splice
