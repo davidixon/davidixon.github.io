@@ -6,7 +6,7 @@ date: 2019-06-11 23:45:00
 
 ★★★☆☆
 
-[Severance](https://www.amazon.com/gp/product/0374261598/) by Ling Ma about a young woman surviving in a post-apocalyptic world. A disease called *Shen Fever* is spreading across the world, causing people to perform rote tasks over and over again until they die. Candace Chen is a young production manager at a book publisher and as the epidemic worsens and people begin to leave New York City, she decides to take her employer's offer of a large sum of money to stay and continue working. She has no family and no where to go. New York is her home.
+[Severance](https://www.amazon.com/gp/product/0374261598/) by Ling Ma is about a young woman surviving in a post-apocalyptic world. A disease called *Shen Fever* is spreading across the world, causing people to perform rote tasks over and over again until they die. Candace Chen is a young production manager at a book publisher and as the epidemic worsens and people begin to leave New York City, she decides to take her employer's offer of a large sum of money to stay and continue working. She has no family and no where to go. New York is her home.
 
 As work dries up (many of the workers at the print factory in Shenzen become fevered and can't fulfill what few orders are still being made) and New York deteriorates with more people continuing leaving, Chen re-starts an old photo-blog called *NY Ghost* and documents what is happening to the city. Eventually things get so bad she decides that it is finally time for her to leave, long after everyone else has. She falls in with a group of survivors led by a man named Bob. They're making their way to a place called *the Facility*, which turns out to be a mall near Chicago that Bob spent much of his childhood in.
 
