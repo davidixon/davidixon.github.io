@@ -20,7 +20,7 @@ layout: null
             	    &lt;a href=&quot;{{ site.url }}{{ post.url }}&quot;&gt;&amp;#8225;&lt;/a&gt;
             	</description>
                 <guid isPermaLink="false">{{ post.link | escape }}</guid>
-            	<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>	
+            	<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>	
             </item>
             {% else %}
 			<item>
@@ -28,7 +28,7 @@ layout: null
 				<link>{{ site.url }}{{ post.url }}</link>
                 <description>{{ post.content | xml_escape }}</description>
                 <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 			</item>
 			{% endif %}
 		{% endfor %}

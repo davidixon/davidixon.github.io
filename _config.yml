@@ -4,12 +4,12 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
-timezone:         America/Denver
 
 # Setup
 title:            Comma Splice
 description:      Thoughts and links of possible interest
 url:              https://commasplice.net/
+timezone:         America/Denver
 
 author:
   name:           David Dixon
