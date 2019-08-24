@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Segregation Caused Atlanta's Traffic Jams"
-date: 2019-08-15 18:30:00
+date: 2019-08-15 18:30
 link: https://www.nytimes.com/interactive/2019/08/14/magazine/traffic-atlanta-segregation.html
 ---
 

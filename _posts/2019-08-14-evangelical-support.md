@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In God’s country"
-date: 2019-08-14 11:25:00
+date: 2019-08-14 11:25
 link: https://www.washingtonpost.com/opinions/2019/08/14/evangelicals-view-trump-their-protector-will-they-stand-by-him/
 ---
 
