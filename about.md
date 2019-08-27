@@ -6,7 +6,7 @@ permalink: /about/
 
 Comma Splice is the personal website of David Dixon.
 
-The website is currently produced with [Jekyll][1] and hosted on [GitHub Pages][2]. The design is based on [Lanyon][3].
+The website is currently produced with [Jekyll][1] and hosted on [GitHub Pages][2]. The design is based on [the Lanyon theme][3].
 
 If you'd like, you can follow me on [Twitter][4], [Instagram][5] and [Strava][6].
 
