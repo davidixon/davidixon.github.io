@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Books I've Read"
 permalink: /books/
 ---
-
-# Books I've Read
 
 ### 2019
 
