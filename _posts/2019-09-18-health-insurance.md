@@ -13,6 +13,6 @@ Zeke Faux, Polly Mosendz and John Tozzi, writing for *Bloomberg Businessweek*:
 >
 > Fewer than 100,000 people had such plans at the end of last year, according to state insurance regulators, but the Trump administration says that number will jump by 600,000 in 2019 as a result of the changes. Some brokers are taking advantage, selling plans so skimpy that they offer no meaningful coverage. 
 
-The Diazes were billed nearly $250,000 for care after David's heart attack because these short-term plans cover essentially nothing, yet isn't any cheaper that the better plans they could've afforded with tax subsidies on the healthcare insurance exchanges. It is absolutely shameful that the current president dishonestly pushes people towards these plans.
+The Diazes were billed nearly $250,000 for care after David's heart attack because these short-term plans cover essentially nothing, yet aren't any cheaper than the better plans available on the healthcare insurance exchanges. It is absolutely shameful that the current president dishonestly pushes people towards these plans.
 
 Between this and [GM dropping workers from their health insurance plans because of a strike](https://www.washingtonpost.com/business/2019/09/17/gm-dropped-workers-health-care-during-strike-company-says-its-standard-procedure/?noredirect=on), it's no wonder Medicare for All and other single payer proposals are becoming increasingly popular.
