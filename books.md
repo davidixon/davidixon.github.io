@@ -6,6 +6,8 @@ permalink: /books/
 
 ### 2019
 
+* *Heart-Shaped Box* by Joe Hill
+  * [★★★☆☆](/2019/09/19/heart-shaped-box) 6/18/19
 * *The Lovely Bones* by Alice Sebold 
   * ★★★☆☆ 9/9/19
 * *Under the Dome* by Stephen King
