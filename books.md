@@ -42,5 +42,11 @@ permalink: /books/
   * ★★★★☆ 5/23/19
 * *Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis* by Sam Anderson
   * ★★★★☆ 5/2/19
+* *Transcription* by Kate Atkinson
+  * ★★★★☆ 4/22
+* *Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue* by Ryan Holiday
+  * ★★★★☆ 4/6
+* *Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance* by Alex Hutchinson
+  * ★★★★☆ 3/30
   
 This page is a work in progress.
