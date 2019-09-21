@@ -48,5 +48,17 @@ permalink: /books/
   * ★★★★☆ 4/6
 * *Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance* by Alex Hutchinson
   * ★★★★☆ 3/30
+* *The Future Is History: How Totalitarianism Reclaimed Russia* by Masha Gessen
+  * ★★★★☆ 3/21
+* *The Girls* by Emma Cline
+  * ★★★★☆ 3/15
+* *The Interestings* by Meg Wolitzer
+  * ★★★★☆ 3/7
+* *Grant* by Ron Chernow
+  * ★★★★☆ 3/7
+* *My Darling Detective* by Howard Norman
+  * ★★★☆☆ 2/21
+* *Wuthering Heights* by Emily Brontë
+  * ★★★☆☆ 2/17
   
 This page is a work in progress.
