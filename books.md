@@ -60,5 +60,19 @@ permalink: /books/
   * ★★★☆☆ 2/21
 * *Wuthering Heights* by Emily Brontë
   * ★★★☆☆ 2/17
+* *literally show me a healthy person* by Darcie Wilder
+  * ★★★★★ 2/15
+* *The Blondes* by Emily Schultz
+  * ★★★★☆ 2/12
+* *Sharp Objects* by Gillian Flynn
+  * ★★★★☆ 2/5
+* *Educated* by Tara Westover
+  * ★★★★★ 1/31
+* *Stardust* by Neil Gaiman
+  * ★★☆☆☆ 1/30
+* *Where'd You Go, Bernadette* by Maria Semple
+  * ★★★★★ 1/25
+* *Football for a Buck: The Crazy Rise and Crazier Demise of the USFL* by Jeff Pearlman
+  * ★★★★☆ 1/22
   
 This page is a work in progress.
