@@ -6,6 +6,8 @@ permalink: /books/
 
 ### 2019
 
+Books read: 39
+
 * *Heart-Shaped Box* by Joe Hill
   * [★★★☆☆](/2019/09/19/heart-shaped-box) 6/18/19
 * *The Lovely Bones* by Alice Sebold 
@@ -74,5 +76,15 @@ permalink: /books/
   * ★★★★★ 1/25
 * *Football for a Buck: The Crazy Rise and Crazier Demise of the USFL* by Jeff Pearlman
   * ★★★★☆ 1/22
+* *Circe* by Madeline Miller
+  * ★★★☆☆ 1/16
+* *The Incendiaries* by R.O. Kwon
+  * ★★★★☆ 1/13
+* *Fates and Furies* by Lauren Groff
+  * ★★★★★ 1/10
+* *Tell the Machine Goodnight* by Katie Williams
+  * ★★★★☆ 1/7
+* *The View from Flyover Country: Dispatches from the Forgotten America* by Sarah Kendzior
+  * ★★★☆☆ 1/4
   
 This page is a work in progress.
