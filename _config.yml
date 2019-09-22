@@ -8,7 +8,7 @@ permalink:        /:year/:month/:day/:title/
 # Setup
 title:            Comma Splice
 description:      Thoughts and links of possible interest
-url:              https://commasplice.net/
+url:              https://commasplice.net
 timezone:         America/Denver
 
 author:
