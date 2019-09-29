@@ -6,44 +6,46 @@ permalink: /books/
 
 ### 2019
 
-Books read: 39
+Books read: 40
 
+* *Quiet: The Power of Introverts in a World That Can't Stop Talking* by Susan Cain
+  * ★★★★☆ 9/28
 * *Heart-Shaped Box* by Joe Hill
-  * [★★★☆☆](/2019/09/19/heart-shaped-box) 6/18/19
+  * [★★★☆☆](/2019/09/19/heart-shaped-box) 9/18
 * *The Lovely Bones* by Alice Sebold 
-  * ★★★☆☆ 9/9/19
+  * ★★★☆☆ 9/9
 * *Under the Dome* by Stephen King
-  * ★★★★☆ 8/31/19
+  * ★★★★☆ 8/31
 * *Fragile Things: Short Fictions and Wonders* by Neil Gaiman
-  * ★★★☆☆ 8/22/19
+  * ★★★☆☆ 8/22
 * *Life After Life* by Kate Atkinson
-  * ★★★★☆ 8/4/19
+  * ★★★★☆ 8/4
 * *How to Do Nothing: Resisting the Attention Economy* by Jenny Odell
-  * ★★☆☆☆ 8/1/19
+  * ★★☆☆☆ 8/1
 * *Let the Great World Spin* by Colum McCann
-  * ★★★★☆ 7/21/19
+  * ★★★★☆ 7/21
 * *Dead Until Dark* by Charlaine Harris
-  * ★★★☆☆ 7/8/19
+  * ★★★☆☆ 7/8
 * *NOS4A2* by Joe Hill
-  * ★★★★☆ 7/3/19
+  * ★★★★☆ 7/3
 * *Dreamland: The True Tale of America's Opiate Epidemic* by Sam Quinones
-  * ★★★☆☆ 6/28/19
+  * ★★★☆☆ 6/28
 * *Severance* by Ling Ma
-  * ★★★☆☆ 6/11/19
+  * ★★★☆☆ 6/11
 * *It Doesn't Have to Be Crazy to Work* by Jason Fried and David Heinemeier Hansson
-  * ★★★☆☆ 6/3/19
+  * ★★★☆☆ 6/3
 * *Furious Hours: Murder, Fraud, and the Last Trial of Harper Lee* by Casey Cep
-  * ★★★★★ 6/1/19
+  * ★★★★★ 6/1
 * *Heartland: A Memoir of Working Hard and Being Broke in the Richest Country on Earth* by Sarah Smarsh
-  * ★★★★☆ 5/31/19
+  * ★★★★☆ 5/31
 * *Bird by Bird: Some Instructions on Writing and Life* by Anne Lamott
-  * ★★★☆☆ 5/30/19
+  * ★★★☆☆ 5/30
 * *Timebound* by Rysa Walker
-  * ★★☆☆☆ 5/28/19
+  * ★★☆☆☆ 5/28
 * *Reamde* by Neal Stephenson
-  * ★★★★☆ 5/23/19
+  * ★★★★☆ 5/23
 * *Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis* by Sam Anderson
-  * ★★★★☆ 5/2/19
+  * ★★★★☆ 5/2
 * *Transcription* by Kate Atkinson
   * ★★★★☆ 4/22
 * *Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue* by Ryan Holiday
