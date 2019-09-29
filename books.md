@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 40
+Books read: 41
 
+* *God Land: A Story of Faith, Loss, and Renewal in Middle America* by Lyz Lenz
+  * ★★★☆☆ 9/29
 * *Quiet: The Power of Introverts in a World That Can't Stop Talking* by Susan Cain
   * ★★★★☆ 9/28
 * *Heart-Shaped Box* by Joe Hill
