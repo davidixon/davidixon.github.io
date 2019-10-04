@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 41
+Books read: 42
 
+* *Napoleon: A Life* by Adam Zamoyski
+  * ★★★★☆ 10/3
 * *God Land: A Story of Faith, Loss, and Renewal in Middle America* by Lyz Lenz
   * ★★★☆☆ 9/29
 * *Quiet: The Power of Introverts in a World That Can't Stop Talking* by Susan Cain
