@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 42
+Books read: 43
 
+* *lady in the Lake* by Laura Lippman
+  * ★★★★☆ 10/9
 * *Napoleon: A Life* by Adam Zamoyski
   * ★★★★☆ 10/3
 * *God Land: A Story of Faith, Loss, and Renewal in Middle America* by Lyz Lenz
