@@ -8,7 +8,7 @@ permalink: /books/
 
 Books read: 43
 
-* *lady in the Lake* by Laura Lippman
+* *Lady in the Lake* by Laura Lippman
   * ★★★★☆ 10/9
 * *Napoleon: A Life* by Adam Zamoyski
   * ★★★★☆ 10/3
