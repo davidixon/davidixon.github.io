@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 43
+Books read: 44
 
+* *Red Mars* by Kim Stanley Robinson
+  * ★★☆☆☆ 10/21
 * *Lady in the Lake* by Laura Lippman
   * ★★★★☆ 10/9
 * *Napoleon: A Life* by Adam Zamoyski
@@ -17,7 +19,7 @@ Books read: 43
 * *Quiet: The Power of Introverts in a World That Can't Stop Talking* by Susan Cain
   * ★★★★☆ 9/28
 * *Heart-Shaped Box* by Joe Hill
-  * [★★★☆☆](/2019/09/19/heart-shaped-box) 9/18
+  * ★★★☆☆ 9/18
 * *The Lovely Bones* by Alice Sebold 
   * ★★★☆☆ 9/9
 * *Under the Dome* by Stephen King
