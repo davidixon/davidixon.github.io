@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 44
+Books read: 45
 
+* *Burning Down the Haus: Punk Rock, Revolution, and the Fall of the Berlin Wall* by Tim Mohr
+  * ★★★☆☆ 10/31
 * *Red Mars* by Kim Stanley Robinson
   * ★★☆☆☆ 10/21
 * *Lady in the Lake* by Laura Lippman
