@@ -11,6 +11,6 @@ Sarah Emerson, writing for *OneZero*:
 >
 > The batteries are also highly rated — had I received a defective set? I scoured the comments page for the alkaline battery for reviews containing the word “explode,” revealing dozens of experiences like mine. One person said the batteries had burst in their wife’s breast pump. Others had toys and appliances ruined by leaky fluid. Some customers blamed this on alleged Chinese manufacturing, but Amazon vaguely claims in the product’s description that they are “made in Indonesia using Japanese technology.”
 
-I had always heard that AmazonBasics' *rechargeable* batteries were just re-branded versions of the Panasonic Eneloop batteries I've used for years now, so as I have some Eneloop batteries that have noticeably declined in their lifespan after so many charge cycles and need to be replaced, I was curious to see this article pop up in Pocket's recommendations for me.
+I had always heard that AmazonBasics' *rechargeable* batteries were just re-branded versions of the Panasonic Eneloop batteries I've used for years now, so as I have some Eneloop batteries that have noticeably declined in their lifespan after so many charge cycles and need to be replaced, I was curious when Pocket recommended this article for me.
 
 This article is about non-rechargeable batteries, but it's still a fascinating look at Amazon's supply chain and who actually does the manufacturing for AmazonBasics products. I'll probably just spend the extra couple of dollars for the Eneloops.
