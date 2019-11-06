@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 45
+Books read: 46
 
+* *The Testaments* by Margaret Atwood
+  * ★★★★☆ 11/4
 * *Burning Down the Haus: Punk Rock, Revolution, and the Fall of the Berlin Wall* by Tim Mohr
   * ★★★☆☆ 10/31
 * *Red Mars* by Kim Stanley Robinson
