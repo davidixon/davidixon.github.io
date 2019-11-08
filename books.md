@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 46
+Books read: 47
 
+* *Fall, Or Dodge in Hell* by Neal Stephenson
+  * ★★★☆☆ 11/7
 * *The Testaments* by Margaret Atwood
   * ★★★★☆ 11/4
 * *Burning Down the Haus: Punk Rock, Revolution, and the Fall of the Berlin Wall* by Tim Mohr
