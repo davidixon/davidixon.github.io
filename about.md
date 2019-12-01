@@ -17,5 +17,5 @@ You can also send email to david at this domain.
 [2]: https://pages.github.com
 [3]: http://lanyon.getpoole.com
 [4]: https://twitter.com/davidixon
-[5]: https://www.instagram.com/davidrdixon/
+[5]: https://www.instagram.com/atdavidixon/
 [6]: https://www.strava.com/athletes/davidixon
