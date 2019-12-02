@@ -2,9 +2,8 @@
 layout: post
 title: "Against Economics"
 date: 2019-12-01 22:45
+link: https://www.nybooks.com/articles/2019/12/05/against-economics/
 ---
-
-🔗 [Against Economics](https://www.nybooks.com/articles/2019/12/05/against-economics/)
 
 David Graeber, writing in the *New York Review of Books*:
 
