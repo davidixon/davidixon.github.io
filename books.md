@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 47
+Books read: 48
 
+* *The Institute* by Stephen King
+  * ★★★★☆ 12/2
 * *Fall, Or Dodge in Hell* by Neal Stephenson
   * ★★★☆☆ 11/7
 * *The Testaments* by Margaret Atwood
