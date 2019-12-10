@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 48
+Books read: 49
 
+* *Rule and Ruin: The Downfall of Moderation and the Destruction of the Republican Party, From Eisenhower to the Tea Party* by Geoffrey Kabaservice
+  * ★★★☆☆ 12/9
 * *The Institute* by Stephen King
   * ★★★★☆ 12/2
 * *Fall, Or Dodge in Hell* by Neal Stephenson
