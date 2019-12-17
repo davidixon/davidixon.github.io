@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 49
+Books read: 50
 
+* *Super Pumped: The Battle for Uber* by Mike Issac
+  * ★★★★☆ 12/16
 * *Rule and Ruin: The Downfall of Moderation and the Destruction of the Republican Party, From Eisenhower to the Tea Party* by Geoffrey Kabaservice
   * ★★★☆☆ 12/9
 * *The Institute* by Stephen King
