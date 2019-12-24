@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2019
 
-Books read: 50
+Books read: 51
 
+* * *A God in Ruins* by Kate Atkinson
+  * ★★★★☆ 12/23
 * *Super Pumped: The Battle for Uber* by Mike Issac
   * ★★★★☆ 12/16
 * *Rule and Ruin: The Downfall of Moderation and the Destruction of the Republican Party, From Eisenhower to the Tea Party* by Geoffrey Kabaservice
