@@ -4,10 +4,19 @@ title: "Books I've Read"
 permalink: /books/
 ---
 
+### 2020
+
+* *Washington: A Life* by Ron Chernow
+  * ★★★☆☆ 1/1
+
 ### 2019
 
-Books read: 51
+Books read: 53
 
+* *The Impeachers: The Trial of Andrew Johnson and the Dream of a Just Nation* by Brenda Wineapple
+  * ★★★★☆ 12/30
+* *The Nickel Boys* by Colson Whitehead
+  * ★★★★☆ 12/28
 * * *A God in Ruins* by Kate Atkinson
   * ★★★★☆ 12/23
 * *Super Pumped: The Battle for Uber* by Mike Issac
