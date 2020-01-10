@@ -6,6 +6,10 @@ permalink: /books/
 
 ### 2020
 
+Books read: 2
+
+* *Daisy Jones & The Six* by Taylor Jenkins Reid
+  * ★★★★☆ 1/8
 * *Washington: A Life* by Ron Chernow
   * ★★★☆☆ 1/1
 
