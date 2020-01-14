@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2020
 
-Books read: 2
+Books read: 3
 
+* *Bullshit Jobs: A Theory* by David Graeber
+  * ★★★★★ 1/13
 * *Daisy Jones & The Six* by Taylor Jenkins Reid
   * ★★★★☆ 1/8
 * *Washington: A Life* by Ron Chernow
@@ -18,7 +20,7 @@ Books read: 2
 Books read: 53
 
 * *The Impeachers: The Trial of Andrew Johnson and the Dream of a Just Nation* by Brenda Wineapple
-  * ★★★★☆ 12/30
+  * ★★★★★ 12/30
 * *The Nickel Boys* by Colson Whitehead
   * ★★★★☆ 12/28
 * * *A God in Ruins* by Kate Atkinson
