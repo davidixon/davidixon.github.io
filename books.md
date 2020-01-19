@@ -6,8 +6,10 @@ permalink: /books/
 
 ### 2020
 
-Books read: 3
+Books read: 4
 
+* *How to Do Nothing: Resisting the Attention Economy* by Jenny Odell
+  * ★★☆☆☆ 1/18
 * *Bullshit Jobs: A Theory* by David Graeber
   * ★★★★★ 1/13
 * *Daisy Jones & The Six* by Taylor Jenkins Reid
