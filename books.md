@@ -6,8 +6,12 @@ permalink: /books/
 
 ### 2020
 
-Books read: 4
+Books read: 6
 
+* *Good to Go: What the Athlete in All of Us Can Learn from the Strange Science of Recovery* by Christie Aschwanden
+  * ★★★★★ 1/29
+* *Alias Grace* by Margaret Atwood
+  * ★★★★☆ 1/24
 * *How to Do Nothing: Resisting the Attention Economy* by Jenny Odell
   * ★★☆☆☆ 1/18
 * *Bullshit Jobs: A Theory* by David Graeber
