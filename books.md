@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 7
+Books read: 8
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -21,3 +21,5 @@ Books read: 7
 6) *Good to Go: What the Athlete in All of Us Can Learn from the Strange Science of Recovery* by Christie Aschwanden ★★★★★ 1/29
 
 7) *The Shining* by Stephen King ★★★★☆ 2/1
+
+8) *The Mastermind: Drugs. Empire. Murder. Betrayal.* by Evan Ratliff ★★★★☆ 2/8
