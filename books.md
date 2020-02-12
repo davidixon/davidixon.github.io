@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 8
+Books read: 9
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -23,5 +23,7 @@ Books read: 8
 7) *The Shining* by Stephen King ★★★★☆ 2/1
 
 8) *The Mastermind: Drugs. Empire. Murder. Betrayal.* by Evan Ratliff ★★★★☆ 2/8
+
+9) *Little Fires Everywhere* by Celeste Ng ★★★★☆ 2/11
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
