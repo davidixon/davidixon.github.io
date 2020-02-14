@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 9
+Books read: 10
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -25,5 +25,7 @@ Books read: 9
 8) *The Mastermind: Drugs. Empire. Murder. Betrayal.* by Evan Ratliff ★★★★☆ 2/8
 
 9) *Little Fires Everywhere* by Celeste Ng ★★★★☆ 2/11
+
+10) *She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement* by Jodi Kantor & Megan Twohey ★★★★★ 2/12
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
