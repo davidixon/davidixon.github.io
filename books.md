@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 10
+Books read: 11
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -27,5 +27,7 @@ Books read: 10
 9) *Little Fires Everywhere* by Celeste Ng ★★★★☆ 2/11
 
 10) *She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement* by Jodi Kantor & Megan Twohey ★★★★★ 2/12
+
+11) *Things We Set on Fire* by Deborah Reed ★★★☆☆ 2/27
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
