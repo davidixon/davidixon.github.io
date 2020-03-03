@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maria Sharapova Wants to Be Clear&#58; She Is Retiring From Tennis, Not Quitting"
+title: "Maria Sharapova Wants to Be Clear: She Is Retiring From Tennis, Not Quitting"
 date: 2020-02-27 21:40
 link: https://www.nytimes.com/2020/02/26/sports/maria-sharapova-retires.html
 ---

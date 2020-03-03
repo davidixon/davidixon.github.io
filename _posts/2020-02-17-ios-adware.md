@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Paywalled Garden&#58; iOS is Adware"
+title: "The Paywalled Garden: iOS is Adware"
 date: 2020-02-17 22:05
 link: https://stevestreza.com/2020/02/17/ios-adware/
 ---
