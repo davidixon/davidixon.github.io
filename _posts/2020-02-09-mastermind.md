@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book review: The Mastermind by Evan Ratliff"
+title: "Book review: The Mastermind"
 date: 2020-02-09 21:50
 ---
 
