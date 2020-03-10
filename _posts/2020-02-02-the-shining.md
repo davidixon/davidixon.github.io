@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book review: Stephen King's The Shining"
+title: "Book review: The Shining"
 date: 2020-02-02 21:45
 ---
 
