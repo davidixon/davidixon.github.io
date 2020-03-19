@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 12
+Books read: 13
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -31,5 +31,7 @@ Books read: 12
 11) *Things We Set on Fire* by Deborah Reed ★★★☆☆ 2/27
 
 12) *Wolf Hall* by Hilary Mantel ★★★★★ 3/8
+
+13) *The Starless Sea* ★★★☆☆ 3/17
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
