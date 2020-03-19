@@ -32,6 +32,6 @@ Books read: 13
 
 12) *Wolf Hall* by Hilary Mantel ★★★★★ 3/8
 
-13) *The Starless Sea* ★★★☆☆ 3/17
+13) *The Starless Sea* by Erin Morgenstern ★★★☆☆ 3/17
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
