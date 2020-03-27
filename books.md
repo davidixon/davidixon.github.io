@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 13
+Books read: 15
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -33,5 +33,9 @@ Books read: 13
 12) *Wolf Hall* by Hilary Mantel ★★★★★ 3/8
 
 13) *The Starless Sea* by Erin Morgenstern ★★★☆☆ 3/17
+
+14) *Because Internet: Understanding the New Rules of Language* by Gretchen McCulloch ★★★★★ 3/24
+
+15) *Just After Sunset* by Stephen King ★★★☆☆ 3/27
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
