@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 15
+Books read: 17
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -37,5 +37,9 @@ Books read: 15
 14) *Because Internet: Understanding the New Rules of Language* by Gretchen McCulloch ★★★★★ 3/24
 
 15) *Just After Sunset* by Stephen King ★★★☆☆ 3/27
+
+16) *Living Dead in Dallas* by Charlaine Harris ★★☆☆☆ 4/3
+
+17) *Jennifer Love Hewitt Times Infinity* by Kevin Fanning ★★☆☆☆ 4/4
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
