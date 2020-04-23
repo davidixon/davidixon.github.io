@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 17
+Books read: 19
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -41,5 +41,9 @@ Books read: 17
 16) *Living Dead in Dallas* by Charlaine Harris ★★☆☆☆ 4/3
 
 17) *Jennifer Love Hewitt Times Infinity* by Kevin Fanning ★★☆☆☆ 4/4
+
+18) *Bring Up the Bodies* by Hilary Mantel ★★★★★ 4/11
+
+19) *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success* by Steve Magness and Brad Stulberg ★★★☆☆ 4/17
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
