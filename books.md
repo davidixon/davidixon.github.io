@@ -46,4 +46,6 @@ Books read: 19
 
 19) *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success* by Steve Magness and Brad Stulberg ★★★☆☆ 4/17
 
+20) *Mostly Dead Things* by Kristen Arnett ★★★★☆ 5/3
+
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
