@@ -6,7 +6,7 @@ permalink: /books/
 
 ### 2020
 
-Books read: 19
+Books read: 22
 
 1) *Washington: A Life* by Ron Chernow ★★★☆☆ 1/1
 
@@ -47,5 +47,9 @@ Books read: 19
 19) *Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success* by Steve Magness and Brad Stulberg ★★★☆☆ 4/17
 
 20) *Mostly Dead Things* by Kristen Arnett ★★★★☆ 5/3
+
+21) *The Man Who Played with Fire: Stieg Larsson's Lost Files and the Hunt for an Assassin* by Jan Stocklassa ★★★☆☆ 5/21
+
+22) *An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk* by Allison Schrager ★★★★☆ 5/26
 
 Books read in previous years [can be seen on Goodreads](https://www.goodreads.com/review/list/2753148?shelf=read). I'll eventually add them to this page.
