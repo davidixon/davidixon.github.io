@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Story Behind Every Song On Julien Baker’s New Album *Little Oblivions*"
+title: "The Story Behind Every Song On Julien Baker’s New Album 'Little Oblivions'"
 date: 2021-03-02 18:10
 link: https://www.stereogum.com/2117430/julien-baker-little-oblivions-interview/interviews/footnotes-interview/
 ---
