@@ -7,7 +7,7 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
-| *The Girls* | Emma Cline | 2021-03-01 | ★★★★☆ |
+| *The Girls* | Emma Cline | 2021-03-01 | [★★★★☆](/2021/03/08/book-girls) |
 | *Between Two Fires: Truth, Ambition, and Compromise in Putin's Russia* | Joshua Yaffa | 2021-02-28 | ★★★★☆ |
 | *Salvage the Bones* | Jesmyn Ward | 2021-02-21 | ★★★☆☆ |
 | *The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy* | Stephanie Kelton | 2021-02-18 | ★★★★★ |
