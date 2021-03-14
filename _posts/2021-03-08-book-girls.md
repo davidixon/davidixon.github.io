@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emma Cline's 'The Girls'"
+title: "Book review&#58; Emma Cline's 'The Girls'"
 date: 2021-03-08 12:15
 ---
 
