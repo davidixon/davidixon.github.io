@@ -7,6 +7,8 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Missing, Presumed Dead* | Emma Berquist | 2021-03-18 | ★★★☆☆ |
+| *Pelosi* | Molly Ball | 2021-03-15 | ★★★★☆ |
 | *Resistance: A Songwriter's Story of Hope, Change, and Courage* | Tori Amos | 2021-03-12 | [★★★☆☆](/2021/03/13/book-resistance) |
 | *The Girls* | Emma Cline | 2021-03-01 | [★★★★☆](/2021/03/08/book-girls) |
 | *Between Two Fires: Truth, Ambition, and Compromise in Putin's Russia* | Joshua Yaffa | 2021-02-28 | ★★★★☆ |
