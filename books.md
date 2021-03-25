@@ -7,6 +7,7 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-23 | ★★★☆☆ | 
 | *Missing, Presumed Dead* | Emma Berquist | 2021-03-18 | ★★★☆☆ |
 | *Pelosi* | Molly Ball | 2021-03-15 | ★★★★☆ |
 | *Resistance: A Songwriter's Story of Hope, Change, and Courage* | Tori Amos | 2021-03-12 | [★★★☆☆](/2021/03/13/book-resistance) |
