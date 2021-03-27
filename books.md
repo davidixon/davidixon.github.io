@@ -7,11 +7,12 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
-| *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-23 | ★★★☆☆ | 
+| *Priestdaddy* | Patricia Lockwood | 2021-03-26 | ★★★★★ |
+| *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-24 | ★★★☆☆ | 
 | *Missing, Presumed Dead* | Emma Berquist | 2021-03-18 | ★★★☆☆ |
 | *Pelosi* | Molly Ball | 2021-03-15 | ★★★★☆ |
-| *Resistance: A Songwriter's Story of Hope, Change, and Courage* | Tori Amos | 2021-03-12 | [★★★☆☆](/2021/03/13/book-resistance) |
-| *The Girls* | Emma Cline | 2021-03-01 | [★★★★☆](/2021/03/08/book-girls) |
+| *Resistance: A Songwriter's Story of Hope, Change, and Courage* | Tori Amos | 2021-03-12 | ★★★☆☆ |
+| *The Girls* | Emma Cline | 2021-03-01 | ★★★★☆ |
 | *Between Two Fires: Truth, Ambition, and Compromise in Putin's Russia* | Joshua Yaffa | 2021-02-28 | ★★★★☆ |
 | *Salvage the Bones* | Jesmyn Ward | 2021-02-21 | ★★★☆☆ |
 | *The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy* | Stephanie Kelton | 2021-02-18 | ★★★★★ |
