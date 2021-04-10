@@ -7,6 +7,7 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Golden State* | Ben H. Winters | 2021-03-31 | ★★★★☆ |
 | *Priestdaddy* | Patricia Lockwood | 2021-03-26 | ★★★★★ |
 | *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-24 | ★★★☆☆ | 
 | *Missing, Presumed Dead* | Emma Berquist | 2021-03-18 | ★★★☆☆ |
