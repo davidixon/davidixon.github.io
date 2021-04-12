@@ -7,6 +7,8 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *At the Edge of the Haight* | Katherine Seligman | 2021-04-10 | ★★★☆☆ |
+| *Quicksilver* | Neal Stephenson | 2021-04-09 | ★★★☆☆
 | *Golden State* | Ben H. Winters | 2021-03-31 | ★★★★☆ |
 | *Priestdaddy* | Patricia Lockwood | 2021-03-26 | ★★★★★ |
 | *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-24 | ★★★☆☆ | 
