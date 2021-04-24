@@ -7,6 +7,9 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *The Vanishing Half* | Brit Bennett | 2021-04-23 | ★★★★☆ |
+| *Fake Accounts* | Lauren Oyler | 2021-04-19 | ★★★★☆ |
+| *Broken Harbor* | Tana French | 2021-04-15 | ★★★☆☆ |
 | *At the Edge of the Haight* | Katherine Seligman | 2021-04-10 | ★★★☆☆ |
 | *Quicksilver* | Neal Stephenson | 2021-04-09 | ★★★☆☆
 | *Golden State* | Ben H. Winters | 2021-03-31 | ★★★★☆ |
