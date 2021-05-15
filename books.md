@@ -7,6 +7,9 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *The Secret Place* | Tana French | 2021-05-13 | ★★★☆☆ |
+| *NW* | Zadie Smith | 2021-05-08 | ★★★★☆
+| *Detransition, Baby* | Torrey Peters | 2021-05-02 | ★★★☆☆ |
 | *The Vanishing Half* | Brit Bennett | 2021-04-23 | ★★★★☆ |
 | *Fake Accounts* | Lauren Oyler | 2021-04-19 | ★★★★☆ |
 | *Broken Harbor* | Tana French | 2021-04-15 | ★★★☆☆ |
