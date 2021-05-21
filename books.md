@@ -7,6 +7,7 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Sunburn* | Laura Lippman | 2021-05-16 | ★★★☆☆ |
 | *The Secret Place* | Tana French | 2021-05-13 | ★★★☆☆ |
 | *NW* | Zadie Smith | 2021-05-08 | ★★★★☆
 | *Detransition, Baby* | Torrey Peters | 2021-05-02 | ★★★☆☆ |
