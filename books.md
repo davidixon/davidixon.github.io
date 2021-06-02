@@ -7,6 +7,9 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Later* | Stephen King | 2021-06-01 | ★★★☆☆ |
+| *Black Buck* | Mateo Askaripour | 2021-05-29 | ★★★☆☆
+| *Such a Fun Age* | Kiley Reid | 2021-05-21 | ★★★☆☆ |
 | *Sunburn* | Laura Lippman | 2021-05-16 | ★★★☆☆ |
 | *The Secret Place* | Tana French | 2021-05-13 | ★★★☆☆ |
 | *NW* | Zadie Smith | 2021-05-08 | ★★★★☆
