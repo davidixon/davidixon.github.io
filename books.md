@@ -7,8 +7,11 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *Caste: The Origins of Our Discontents* | Isabel Wilkerson | 2021-06-21 | ★★★★★ |
+| *The Trespasser* | Tana French | 2021-06-14 | ★★★☆☆ |
+| *The Need* | Helen Phillips | 2021-06-08 | ★★☆☆☆ |
 | *Later* | Stephen King | 2021-06-01 | ★★★☆☆ |
-| *Black Buck* | Mateo Askaripour | 2021-05-29 | ★★★☆☆
+| *Black Buck* | Mateo Askaripour | 2021-05-29 | ★★★☆☆ |
 | *Such a Fun Age* | Kiley Reid | 2021-05-21 | ★★★☆☆ |
 | *Sunburn* | Laura Lippman | 2021-05-16 | ★★★☆☆ |
 | *The Secret Place* | Tana French | 2021-05-13 | ★★★☆☆ |
@@ -18,7 +21,7 @@ permalink: /books/
 | *Fake Accounts* | Lauren Oyler | 2021-04-19 | ★★★★☆ |
 | *Broken Harbor* | Tana French | 2021-04-15 | ★★★☆☆ |
 | *At the Edge of the Haight* | Katherine Seligman | 2021-04-10 | ★★★☆☆ |
-| *Quicksilver* | Neal Stephenson | 2021-04-09 | ★★★☆☆
+| *Quicksilver* | Neal Stephenson | 2021-04-09 | ★★★☆☆ |
 | *Golden State* | Ben H. Winters | 2021-03-31 | ★★★★☆ |
 | *Priestdaddy* | Patricia Lockwood | 2021-03-26 | ★★★★★ |
 | *Can't Even: How Millennials Became the Burnout Generation* | Anne Helen Petersen | 2021-03-24 | ★★★☆☆ | 
