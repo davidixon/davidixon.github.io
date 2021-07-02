@@ -7,6 +7,8 @@ permalink: /books/
 
 | Title | Author | Date Finished | Rating |
 | ----- | ------ | ------------- | ------ |
+| *His Majesty's Dragon* | Naomi Novik | 2021-06-30 | ★★☆☆☆ |
+| *American Fire: Love, Arson and Life in a Vanishing Land* | Monica Hesse | 2021-06-28 | ★★★★☆ |
 | *Caste: The Origins of Our Discontents* | Isabel Wilkerson | 2021-06-21 | ★★★★★ |
 | *The Trespasser* | Tana French | 2021-06-14 | ★★★☆☆ |
 | *The Need* | Helen Phillips | 2021-06-08 | ★★☆☆☆ |
