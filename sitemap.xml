@@ -17,7 +17,7 @@ layout: null
     </url>
     {% for post in site.posts %}
     <url>
-        <loc>http://commasplice.net{{ post.url }}/</loc>
+        <loc>http://commasplice.net{{ post.url }}</loc>
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
