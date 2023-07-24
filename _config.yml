@@ -1,21 +1,21 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        /:year/:month/:day/:title/
+permalink:: /:year/:month/:day/:title/
 
 # Setup
-title:            Comma Splice
-description:      Thoughts and links of possible interest
-url:              https://commasplice.net
-timezone:         America/New_York
+title: Comma Splice
+description: Thoughts and links of possible interest
+url: https://commasplice.net
+timezone: America/New_York
 
 author:
-  name:           David Dixon
-  url:            https://instagram.com/atdavidixon
+  name: David Dixon
+  url: https://bsky.app/profile/david.commasplice.net
 
-paginate:         10
+paginate: 10
 
 # Custom vars
-version:          2022
+version: 2023
